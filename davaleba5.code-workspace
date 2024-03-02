@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Davaleba 5/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "davaleba5",
+		"liveServer.settings.port": 5501
+	}
+}
